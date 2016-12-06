@@ -1,0 +1,14 @@
+how big is the big data? 
+
+how to parse logfile?
+
+the sample data?
+
+The specific information we need to save(student name)?
+
+for visulization part, what should we provide( basic graphs)? 
+
+analze tool?
+
+what kind of question he wants to ask?
+ 

@@ -1,0 +1,26 @@
+Zhaoheng Wang
+
+Progress since last week:
+
+In this week, we make an appointment with Kirsten about our problem statement and get useful feedback from her. we find that our problem statement need to organize the information more clearly for the readers. Besides, we finish our requirements document and get some feedback from our TA. Furthermore, i do some research about the whole process again and i have a more clearly idea about how this whole process goes.
+
+Any problems encountered:
+
+Our requirements document still have some problems: 1 The syntax for latex need to change 2 The content for specific requirements part should be more specific 3 The format for specific requirement part need to change 4 Adding a schedule for the requirements
+
+Plans for the coming week:
+
+We need to revise our Requirements document and problem statement again. Besides, I would like do more research about loading data from different source and the algorithm for searching specific data in a file. i believe this will help a lot for the detail design part
+
+
+
+week7:
+#Zhaoheng Wang
+**Progress since last week:**
+In this week, we revise our Requirements document again base on our TA's feedback. We first change the functional requirement part and make this part more detail. Besides, we add performance requirement part and system attribute part which let reader understand our system more clearly. Furthermore, we make a schedule in gantt chart which give a clearly schedule for our project.
+
+**Any problems encountered:**
+For the technology review, i am not familiar with how to make the data suitable before visualization so i need to do more research about this part. Besides, i also need to figure out what kind of tools we might use for visualization.  
+
+**Plans for the coming week:**
+we might start our detail design next week. Therefore, it is better to ask an appointment with our client and data analyzer. we need to check our thought with our client and make sure it fits our client's requirement. For example, we need to ask for some sample data from our client so we could figure out the detail process for loading data. Besides, we also need to check our thought with our user(data analyzer) and figure out what types of data we need to create for loading into the analyze tool.
